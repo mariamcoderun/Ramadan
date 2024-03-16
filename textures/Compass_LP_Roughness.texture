@@ -1,0 +1,36 @@
+{
+  "modelName": "texture",
+  "name": "Compass_LP_Roughness",
+  "identifier": "texture:291068-9ebf63c5-0af7-4e30-a022-3fc462bdbfe4",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "831183dae1aaa043dc8a977f9c4cbcf3",
+  "assetLocator": "textures/Compass_LP_Roughness.png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 1024,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 1024,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "831183dae1aaa043dc8a977f9c4cbcf3",
+      "colorCount": 186,
+      "detectedAlphaChannel": "no_alpha",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 6.4353312883901435,
+      "pixelsHigh": 1024,
+      "pixelsWide": 1024
+    }
+  ]
+}

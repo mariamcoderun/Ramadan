@@ -1,0 +1,36 @@
+{
+  "modelName": "texture",
+  "name": "clock",
+  "identifier": "texture:305229-9ebf63c5-0af7-4e30-a022-3fc462bdbfe4",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "ec13839c6e95dc3c74f7d655361a7bf2",
+  "assetLocator": "textures/clock.png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 536,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 382,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "ec13839c6e95dc3c74f7d655361a7bf2",
+      "colorCount": 36381,
+      "detectedAlphaChannel": "no_alpha",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 13.4808048815433,
+      "pixelsHigh": 536,
+      "pixelsWide": 382
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "modelName": "texture",
+  "name": "Compass_LP_BaseColor",
+  "identifier": "texture:291060-9ebf63c5-0af7-4e30-a022-3fc462bdbfe4",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "06f5dfc4db1a53ff4c5b7f3a55ecc43c",
+  "assetLocator": "textures/Compass_LP_BaseColor.png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 1024,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 1024,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "06f5dfc4db1a53ff4c5b7f3a55ecc43c",
+      "colorCount": 103152,
+      "detectedAlphaChannel": "eight_bit_full_range",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 13.376828090235803,
+      "pixelsHigh": 1024,
+      "pixelsWide": 1024
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "modelName": "playback_controller_model",
+  "name": "audioPlaybackController0",
+  "identifier": "playback_controller_model:150477-01f0c6d7-2226-4482-9c7c-9794e4010c71",
+  "needsContinuousLooping": false,
+  "needsContinuousPlaying": true,
+  "soundIdentifier": "sound:170799-01f0c6d7-2226-4482-9c7c-9794e4010c71"
+}

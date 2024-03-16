@@ -1,0 +1,36 @@
+{
+  "modelName": "texture",
+  "name": "fianl(1)",
+  "identifier": "texture:245491-01f0c6d7-2226-4482-9c7c-9794e4010c71",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "3bc6fc531dceef2866a7ba8eccbdd101",
+  "assetLocator": "textures/fianl(1).png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 357,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 684,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "3bc6fc531dceef2866a7ba8eccbdd101",
+      "colorCount": 2003,
+      "detectedAlphaChannel": "eight_bit_full_range",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 3.432429714920691,
+      "pixelsHigh": 357,
+      "pixelsWide": 684
+    }
+  ]
+}

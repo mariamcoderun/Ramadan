@@ -1,0 +1,36 @@
+{
+  "modelName": "texture",
+  "name": "77983_footprint-png",
+  "identifier": "texture:254652-01f0c6d7-2226-4482-9c7c-9794e4010c71",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "dac9f24aed2cbfdff8ad1676df674e70",
+  "assetLocator": "textures/77983_footprint-png.png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 980,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 690,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "dac9f24aed2cbfdff8ad1676df674e70",
+      "colorCount": 256,
+      "detectedAlphaChannel": "one_bit",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 1.1314095457561129,
+      "pixelsHigh": 980,
+      "pixelsWide": 690
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "modelName": "texture",
+  "name": "سفرالحرم",
+  "identifier": "texture:398763-01f0c6d7-2226-4482-9c7c-9794e4010c71",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "1766d7e2fa6b6ac30680c86f28ce671f",
+  "assetLocator": "textures/سفرالحرم.png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 84,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 456,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "1766d7e2fa6b6ac30680c86f28ce671f",
+      "colorCount": 1213,
+      "detectedAlphaChannel": "eight_bit_full_range",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 4.129066601845139,
+      "pixelsHigh": 84,
+      "pixelsWide": 456
+    }
+  ]
+}

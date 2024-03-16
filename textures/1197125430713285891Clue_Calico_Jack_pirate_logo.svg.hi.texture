@@ -1,0 +1,36 @@
+{
+  "modelName": "texture",
+  "name": "1197125430713285891Clue_Calico_Jack_pirate_logo.svg.hi",
+  "identifier": "texture:275387-01f0c6d7-2226-4482-9c7c-9794e4010c71",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "38ea650d8be3c0aa1b0ea41c1b9ebd8b",
+  "assetLocator": "textures/1197125430713285891Clue_Calico_Jack_pirate_logo.svg.hi.png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 450,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 600,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "38ea650d8be3c0aa1b0ea41c1b9ebd8b",
+      "colorCount": 256,
+      "detectedAlphaChannel": "eight_bit_full_range",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 1.352082008928881,
+      "pixelsHigh": 450,
+      "pixelsWide": 600
+    }
+  ]
+}

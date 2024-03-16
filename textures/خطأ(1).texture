@@ -1,0 +1,36 @@
+{
+  "modelName": "texture",
+  "name": "خطأ(1)",
+  "identifier": "texture:444454-01f0c6d7-2226-4482-9c7c-9794e4010c71",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "18a2fe27a113cc4940d4e5ba7f054ad9",
+  "assetLocator": "textures/خطأ(1).png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 43,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 65,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "18a2fe27a113cc4940d4e5ba7f054ad9",
+      "colorCount": 378,
+      "detectedAlphaChannel": "eight_bit_full_range",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 5.365456728562533,
+      "pixelsHigh": 43,
+      "pixelsWide": 65
+    }
+  ]
+}

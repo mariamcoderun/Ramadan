@@ -1,0 +1,36 @@
+{
+  "modelName": "texture",
+  "name": "pngtree-old-paper-scroll-vintage-png-image_6445645",
+  "identifier": "texture:428384-01f0c6d7-2226-4482-9c7c-9794e4010c71",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "2c4fcf7374bee85ccd39d6dc4d9aaabe",
+  "assetLocator": "textures/pngtree-old-paper-scroll-vintage-png-image_6445645.png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 360,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 640,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "2c4fcf7374bee85ccd39d6dc4d9aaabe",
+      "colorCount": 173,
+      "detectedAlphaChannel": "eight_bit_full_range",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 4.511821001943831,
+      "pixelsHigh": 360,
+      "pixelsWide": 640
+    }
+  ]
+}

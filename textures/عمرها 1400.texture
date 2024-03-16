@@ -1,0 +1,36 @@
+{
+  "modelName": "texture",
+  "name": "عمرها 1400",
+  "identifier": "texture:514708-01f0c6d7-2226-4482-9c7c-9794e4010c71",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "d0fe920df3b9458acf44da4469bda7a5",
+  "assetLocator": "textures/عمرها 1400.png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 43,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 161,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "d0fe920df3b9458acf44da4469bda7a5",
+      "colorCount": 659,
+      "detectedAlphaChannel": "eight_bit_full_range",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 5.049187130176304,
+      "pixelsHigh": 43,
+      "pixelsWide": 161
+    }
+  ]
+}

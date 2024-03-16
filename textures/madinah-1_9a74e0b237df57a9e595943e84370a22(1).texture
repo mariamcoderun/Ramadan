@@ -1,0 +1,36 @@
+{
+  "modelName": "texture",
+  "name": "madinah-1_9a74e0b237df57a9e595943e84370a22(1)",
+  "identifier": "texture:397787-01f0c6d7-2226-4482-9c7c-9794e4010c71",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "4d889bbd1f6b425dfbb0bdede5f47aae",
+  "assetLocator": "textures/madinah-1_9a74e0b237df57a9e595943e84370a22(1).jpg",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 681,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 1024,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "4d889bbd1f6b425dfbb0bdede5f47aae",
+      "colorCount": 64253,
+      "detectedAlphaChannel": "no_alpha",
+      "detectedOriginalFormat": "jpeg",
+      "entropyOfDistribution": 13.299100443685091,
+      "pixelsHigh": 681,
+      "pixelsWide": 1024
+    }
+  ]
+}

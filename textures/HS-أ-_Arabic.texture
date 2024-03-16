@@ -1,0 +1,41 @@
+{
+  "modelName": "texture",
+  "name": "HS-أ-_Arabic",
+  "identifier": "texture:44854-01f0c6d7-2226-4482-9c7c-9794e4010c71",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "2ff544b1f43f65dcdfa95fdc4cec6f9c",
+  "assetLocator": "textures/HS-أ-_Arabic.png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "exportConfigurations": [
+    "textureExportConfig:64524-01f0c6d7-2226-4482-9c7c-9794e4010c71",
+    "textureExportConfig:65386-01f0c6d7-2226-4482-9c7c-9794e4010c71",
+    "textureExportConfig:66256-01f0c6d7-2226-4482-9c7c-9794e4010c71"
+  ],
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 476,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 476,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "2ff544b1f43f65dcdfa95fdc4cec6f9c",
+      "colorCount": 450,
+      "detectedAlphaChannel": "eight_bit_full_range",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 1.7497401273287,
+      "pixelsHigh": 476,
+      "pixelsWide": 476
+    }
+  ]
+}

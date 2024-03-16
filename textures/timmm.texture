@@ -1,0 +1,36 @@
+{
+  "modelName": "texture",
+  "name": "timmm",
+  "identifier": "texture:20820-01f0c6d7-2226-4482-9c7c-9794e4010c71",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "2f2539604db75b17f59a680efc1d573f",
+  "assetLocator": "textures/timmm.jpeg",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 1024,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 250,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "2f2539604db75b17f59a680efc1d573f",
+      "colorCount": 1119,
+      "detectedAlphaChannel": "no_alpha",
+      "detectedOriginalFormat": "jpeg",
+      "entropyOfDistribution": 3.311657205363513,
+      "pixelsHigh": 1024,
+      "pixelsWide": 250
+    }
+  ]
+}
